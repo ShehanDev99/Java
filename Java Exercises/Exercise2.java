@@ -59,6 +59,7 @@ public class Exercise2 {
         if(isStudent){
             System.out.println("I am a Student.");
         }
+
         else{
             System.out.println("I am Not a Student.");
         }
@@ -66,6 +67,7 @@ public class Exercise2 {
         if(isGraduated){
             System.out.println("I have Graduated.");
         }
+        
         else{
             System.out.println("I have Not Graduated.");
         }
