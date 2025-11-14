@@ -69,7 +69,7 @@ public class Exercise2 {
         }
         
         else{
-            System.out.println("I have Not Graduated.");
+            System.out.println("I have Not Graduated."); 
         }
 
 
