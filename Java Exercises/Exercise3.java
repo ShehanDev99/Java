@@ -32,6 +32,7 @@ public class Exercise3 {
             System.out.println("You are not enrolled.");
         }
         System.out.println("Your grade is: "+ grade);
+        scanner.close();
 
     }
     
