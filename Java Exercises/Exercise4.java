@@ -29,7 +29,7 @@ public class Exercise4 {
         System.out.println("I " + verb1 + " happily .");
         System.out.println("What a " + adjective3 + " day it was !");
 
-        scanner.close();
+        scanner.close(); 
 
 
 
