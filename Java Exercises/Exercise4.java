@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Exercise3 {
+public class Exercise4 {
 
     //MADLIBS GAME
     public static void main(String[] args){
