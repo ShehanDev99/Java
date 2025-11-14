@@ -12,7 +12,7 @@ public class Exercise1 {
          comment.
          */
 
-        System.out.println("I like Pizza !");
+        System.out.println("I like Pizza !"); 
         System.out.println("I like Hot Dog !");
         System.out.println("I like Burger !");
 
