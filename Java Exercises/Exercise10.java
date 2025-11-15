@@ -15,7 +15,7 @@ public class Exercise10 {
         System.out.printf("I am %d years old\n",age);
         System.out.printf("%c is the first letter of my name\n",first_letter);
         System.out.printf("My height is %f feet\n",height);
-        System.out.printf("isStudent: %b\n",isStudent);
+        System.out.printf("isStudent: %b\n",isStudent);  
 
         //Multiple Format Specifiers
         System.out.printf("%s is %d years old and he is %f feet in height.\n",name,age,height);
