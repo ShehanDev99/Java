@@ -15,7 +15,7 @@ public class Exercise5 {
         System.out.println(c);
         c = a/b;
         System.out.println(c);
-        c = a%b;
+        c = a%b; 
         System.out.println(c);
 
         //2.Argumented Assignment Operators.
@@ -49,7 +49,7 @@ public class Exercise5 {
         //P-E-M-D-A-S
 
         int result = 3+4*(7-3)/2;
-        
+
         System.out.println(result);
 
 
