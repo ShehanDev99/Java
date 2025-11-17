@@ -38,7 +38,7 @@ public class Exercise13 {
             System.out.println("Hello,"+    name);
             
         }
-
+        
         if(name.equals("Password")){
             System.out.println("Your name can't be password!");
 
