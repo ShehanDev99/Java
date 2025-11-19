@@ -18,7 +18,7 @@ public class Exercise17 {
         newTemp = (unit.equals("C"))? (temp-32)*5/9 : (temp*5/9) +32;
         System.out.printf("%.2f %s",newTemp,unit);
 
-        scanner.close();
+        scanner.close(); 
 
 
 
