@@ -14,17 +14,17 @@ public class Exercise15 {
         System.out.println("1. lbs to kgs: ");
         System.out.println("2. kgs to lbs: ");
 
-        System.out.println("Enter your choice (1 or 2): ");
+        System.out.print("Enter your choice (1 or 2): ");
         choice = scanner.nextInt();
 
         if(choice == 1){
-            System.out.println("Enter weight in lbs: ");
+            System.out.print("Enter weight in lbs: ");
             weight = scanner.nextDouble();
             newWeight = weight * 0.453592;
             System.out.println("Your weight in kgs: " + newWeight+ "kg");
         }
         else if(choice == 2){
-            System.out.println("Enter weight in kgs: ");
+            System.out.print("Enter weight in kgs: ");
             weight = scanner.nextDouble();
             newWeight = weight / 0.453592;
             System.out.println("Your weigth in lbs: "+ newWeight +"lbs");
