@@ -1,4 +1,4 @@
-public class Exercise17 {
+public class Exercise16 {
 
     //Ternary Operator in Java.
 
