@@ -49,7 +49,7 @@ public class Exercise19 {
 
     
 
-
+        scanner.close();
 
 
     }
